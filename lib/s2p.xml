@@ -8,6 +8,11 @@
   <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/billybobisverycool/-m@67485d31f27df608a4407d8cf3b42fd08c65e2e4/slope2/style.css">
   </head>
+ <style> 
+  body {
+  overflow: hidden; /* Hide scrollbars */
+}
+  </style>
   <body>
     <div id="unity-container" class="unity-desktop">
   <canvas id="unity-canvas"></canvas>
